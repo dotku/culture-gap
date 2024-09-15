@@ -5,7 +5,7 @@ compare different culture and help worldwide understanding
 ## festival
 
 | Chinese | Chinese Date | US | US date | Meaning |
-| --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- |
 | Chinese new year / Lunar new year | Feb | New year | Jan 1st | celebrate new year |
 | Lantern Festival | Feb | Groundhog Day | Feb | celeborate comming new year or end of new year celeboration |
 | Qingming Festival | Apirl, May | Memorial Day | the last Monday in May | remember the older geneartion's contribution |
