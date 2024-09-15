@@ -4,7 +4,7 @@ compare different culture and help worldwide understanding
 
 ## festival
 
-| Chinese | Chinese Date | US | US date | Meaning |
+| Chinese | Date | US | date | Meaning |
 | --- | --- | --- | --- | --- |
 | Chinese new year / Lunar new year | Feb | New year | Jan 1st | celebrate new year |
 | Lantern Festival | Feb | Groundhog Day | Feb | celeborate comming new year or end of new year celeboration |
