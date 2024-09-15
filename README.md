@@ -1,6 +1,6 @@
-# culture-gap
+# international-festivals
 
-compare different culture and help worldwide understanding
+compare different culture festivals and help worldwide understanding
 
 ## festival
 
